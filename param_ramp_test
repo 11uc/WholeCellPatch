@@ -1,0 +1,5 @@
+spike_slope_threshold  =  20
+spike_peak_threshold   =  0.02
+half_width_threshold   =  0.004
+ISI_std_threshold      =  10
+sign                   =  1

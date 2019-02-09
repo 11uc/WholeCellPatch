@@ -1,0 +1,16 @@
+start = 1
+end = 9.5
+sign = -1
+medianFilterWinSize = 5
+medianFilterThresh = 30e-12
+lowBandWidth = 300
+riseSlope = 4.5e-9
+riseTime = 5e-3
+baseLineWin = 10e-3
+minAmp = 1e-11
+minTau = 1.2e-3
+residual = 0.2
+onTauIni = 1
+offTauIni = 20
+stackWin = 7e-3
+scale = 1e12

@@ -1,0 +1,4 @@
+prefix  =  Cell
+pad     =  4
+link    =  _
+suffix  =  .ibw

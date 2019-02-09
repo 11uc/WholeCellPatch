@@ -1,0 +1,10 @@
+baseline_start      = 0.04
+baseline_end        = 0.045
+steady_state_start  = 0.15
+steady_state_end    = 0.2
+seal_test_start     = 0.05
+dV                  = -0.005
+dI                  = -25e-12 
+scaleV				= 1e12
+scaleI				= 1e3
+minTau				= 1e-3
